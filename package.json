@@ -2,7 +2,7 @@
   "name": "mosnters-relodex",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://manjeet-123.github.io/mosnters-relodex",
+  "homepage": "https://manjeet-123.github.io/mosnters-relodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
